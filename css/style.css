@@ -1,0 +1,32 @@
+h1, h2, h3, h4, h5, h6 {
+	margin: 0;
+}
+
+.container h3 {
+	display: inline-block;
+}
+
+.container .right {
+	float: right;
+	margin-left: 15px;
+}
+
+.container .left {
+	float: left;
+}
+
+.box-img img {
+	height: 100%;
+	width: 100%;
+	object-fit: cover;
+}
+
+.img-edit {
+	height: 250px;
+	width: 250px;
+}
+
+.view-img {
+	height: 455px;
+	width: 100%;
+}
